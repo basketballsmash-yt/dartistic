@@ -1,0 +1,1056 @@
+{
+  "connected": false,
+  "frames_received": 23727,
+  "source_timestamp_s": 1901.1916666666666,
+  "tracked_bones": 19,
+  "skeletons": [
+    {
+      "name": "Skeleton 002",
+      "id": 1,
+      "bones": [
+        {
+          "name": "Skeleton 002_Hip",
+          "id": 1,
+          "parent_id": 0,
+          "offset": [
+            -0.0,
+            0.8720769286155701,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_Ab",
+          "id": 2,
+          "parent_id": 1,
+          "offset": [
+            -0.0,
+            0.07283371686935425,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_Chest",
+          "id": 3,
+          "parent_id": 2,
+          "offset": [
+            -0.0,
+            0.2254752218723297,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_Neck",
+          "id": 4,
+          "parent_id": 3,
+          "offset": [
+            -0.0,
+            0.24323953688144684,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_Head",
+          "id": 5,
+          "parent_id": 4,
+          "offset": [
+            -0.0,
+            0.1376734972000122,
+            0.017764320597052574
+          ]
+        },
+        {
+          "name": "Skeleton 002_LShoulder",
+          "id": 6,
+          "parent_id": 3,
+          "offset": [
+            0.03513529896736145,
+            0.21220672130584717,
+            0.00017338991165161133
+          ]
+        },
+        {
+          "name": "Skeleton 002_LUArm",
+          "id": 7,
+          "parent_id": 6,
+          "offset": [
+            0.1317557394504547,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LFArm",
+          "id": 8,
+          "parent_id": 7,
+          "offset": [
+            0.25215965509414673,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LHand",
+          "id": 9,
+          "parent_id": 8,
+          "offset": [
+            0.23909124732017517,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LThumb1",
+          "id": 22,
+          "parent_id": 9,
+          "offset": [
+            0.018563715741038322,
+            -0.02109513245522976,
+            0.029533185064792633
+          ]
+        },
+        {
+          "name": "Skeleton 002_LThumb2",
+          "id": 23,
+          "parent_id": 22,
+          "offset": [
+            0.02803770825266838,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LThumb3",
+          "id": 24,
+          "parent_id": 23,
+          "offset": [
+            0.02396406978368759,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LIndex1",
+          "id": 25,
+          "parent_id": 9,
+          "offset": [
+            0.07594247907400131,
+            0.0,
+            0.029533185064792633
+          ]
+        },
+        {
+          "name": "Skeleton 002_LIndex2",
+          "id": 26,
+          "parent_id": 25,
+          "offset": [
+            0.04219026491045952,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LIndex3",
+          "id": 27,
+          "parent_id": 26,
+          "offset": [
+            0.02109513245522976,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LMiddle1",
+          "id": 28,
+          "parent_id": 9,
+          "offset": [
+            0.07594247907400131,
+            0.0,
+            0.009788141585886478
+          ]
+        },
+        {
+          "name": "Skeleton 002_LMiddle2",
+          "id": 29,
+          "parent_id": 28,
+          "offset": [
+            0.04640929028391838,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LMiddle3",
+          "id": 30,
+          "parent_id": 29,
+          "offset": [
+            0.02531415782868862,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LRing1",
+          "id": 31,
+          "parent_id": 9,
+          "offset": [
+            0.07172345370054245,
+            0.0,
+            -0.009788141585886478
+          ]
+        },
+        {
+          "name": "Skeleton 002_LRing2",
+          "id": 32,
+          "parent_id": 31,
+          "offset": [
+            0.04219026491045952,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LRing3",
+          "id": 33,
+          "parent_id": 32,
+          "offset": [
+            0.02109513245522976,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LPinky1",
+          "id": 34,
+          "parent_id": 9,
+          "offset": [
+            0.06750442087650299,
+            0.0,
+            -0.029533185064792633
+          ]
+        },
+        {
+          "name": "Skeleton 002_LPinky2",
+          "id": 35,
+          "parent_id": 34,
+          "offset": [
+            0.033752210438251495,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LPinky3",
+          "id": 36,
+          "parent_id": 35,
+          "offset": [
+            0.016876105219125748,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RShoulder",
+          "id": 10,
+          "parent_id": 3,
+          "offset": [
+            -0.03513529896736145,
+            0.21220672130584717,
+            0.00017338991165161133
+          ]
+        },
+        {
+          "name": "Skeleton 002_RUArm",
+          "id": 11,
+          "parent_id": 10,
+          "offset": [
+            -0.1317557394504547,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RFArm",
+          "id": 12,
+          "parent_id": 11,
+          "offset": [
+            -0.25215965509414673,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RHand",
+          "id": 13,
+          "parent_id": 12,
+          "offset": [
+            -0.23909124732017517,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RThumb1",
+          "id": 37,
+          "parent_id": 13,
+          "offset": [
+            -0.018563715741038322,
+            -0.02109513245522976,
+            0.029533185064792633
+          ]
+        },
+        {
+          "name": "Skeleton 002_RThumb2",
+          "id": 38,
+          "parent_id": 37,
+          "offset": [
+            -0.02803770825266838,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RThumb3",
+          "id": 39,
+          "parent_id": 38,
+          "offset": [
+            -0.02396406978368759,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RIndex1",
+          "id": 40,
+          "parent_id": 13,
+          "offset": [
+            -0.07594247907400131,
+            0.0,
+            0.029533185064792633
+          ]
+        },
+        {
+          "name": "Skeleton 002_RIndex2",
+          "id": 41,
+          "parent_id": 40,
+          "offset": [
+            -0.04219026491045952,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RIndex3",
+          "id": 42,
+          "parent_id": 41,
+          "offset": [
+            -0.02109513245522976,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RMiddle1",
+          "id": 43,
+          "parent_id": 13,
+          "offset": [
+            -0.07594247907400131,
+            0.0,
+            0.009788141585886478
+          ]
+        },
+        {
+          "name": "Skeleton 002_RMiddle2",
+          "id": 44,
+          "parent_id": 43,
+          "offset": [
+            -0.04640929028391838,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RMiddle3",
+          "id": 45,
+          "parent_id": 44,
+          "offset": [
+            -0.02531415782868862,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RRing1",
+          "id": 46,
+          "parent_id": 13,
+          "offset": [
+            -0.07172345370054245,
+            0.0,
+            -0.009788141585886478
+          ]
+        },
+        {
+          "name": "Skeleton 002_RRing2",
+          "id": 47,
+          "parent_id": 46,
+          "offset": [
+            -0.04219026491045952,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RRing3",
+          "id": 48,
+          "parent_id": 47,
+          "offset": [
+            -0.02109513245522976,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RPinky1",
+          "id": 49,
+          "parent_id": 13,
+          "offset": [
+            -0.06750442087650299,
+            0.0,
+            -0.029533185064792633
+          ]
+        },
+        {
+          "name": "Skeleton 002_RPinky2",
+          "id": 50,
+          "parent_id": 49,
+          "offset": [
+            -0.033752210438251495,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RPinky3",
+          "id": 51,
+          "parent_id": 50,
+          "offset": [
+            -0.016876105219125748,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LThigh",
+          "id": 14,
+          "parent_id": 1,
+          "offset": [
+            0.08882161229848862,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LShin",
+          "id": 15,
+          "parent_id": 14,
+          "offset": [
+            -0.0,
+            -0.3965582549571991,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LFoot",
+          "id": 16,
+          "parent_id": 15,
+          "offset": [
+            -0.0,
+            -0.40446144342422485,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_LToe",
+          "id": 17,
+          "parent_id": 16,
+          "offset": [
+            -0.0,
+            -0.05773404240608215,
+            0.13323241472244263
+          ]
+        },
+        {
+          "name": "Skeleton 002_RThigh",
+          "id": 18,
+          "parent_id": 1,
+          "offset": [
+            -0.08882161229848862,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RShin",
+          "id": 19,
+          "parent_id": 18,
+          "offset": [
+            -0.0,
+            -0.3965582549571991,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RFoot",
+          "id": 20,
+          "parent_id": 19,
+          "offset": [
+            -0.0,
+            -0.40446144342422485,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton 002_RToe",
+          "id": 21,
+          "parent_id": 20,
+          "offset": [
+            -0.0,
+            -0.05773404240608215,
+            0.13323241472244263
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skeleton",
+      "id": 0,
+      "bones": [
+        {
+          "name": "Skeleton_Hip",
+          "id": 1,
+          "parent_id": 0,
+          "offset": [
+            -0.0,
+            0.7692710161209106,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_Ab",
+          "id": 2,
+          "parent_id": 1,
+          "offset": [
+            -0.0,
+            0.068401999771595,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_Chest",
+          "id": 3,
+          "parent_id": 2,
+          "offset": [
+            -0.0,
+            0.18918299674987793,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_Neck",
+          "id": 4,
+          "parent_id": 3,
+          "offset": [
+            -0.0,
+            0.2058659940958023,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_Head",
+          "id": 5,
+          "parent_id": 4,
+          "offset": [
+            -0.0,
+            0.12929600477218628,
+            0.01668339967727661
+          ]
+        },
+        {
+          "name": "Skeleton_LShoulder",
+          "id": 6,
+          "parent_id": 3,
+          "offset": [
+            0.03335849940776825,
+            0.13901500403881073,
+            -0.00580764003098011
+          ]
+        },
+        {
+          "name": "Skeleton_LUArm",
+          "id": 7,
+          "parent_id": 6,
+          "offset": [
+            0.12784600257873535,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LFArm",
+          "id": 8,
+          "parent_id": 7,
+          "offset": [
+            0.21476100385189056,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LHand",
+          "id": 9,
+          "parent_id": 8,
+          "offset": [
+            0.22809499502182007,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LThumb1",
+          "id": 22,
+          "parent_id": 9,
+          "offset": [
+            0.017434200271964073,
+            -0.01981149986386299,
+            0.027736200019717216
+          ]
+        },
+        {
+          "name": "Skeleton_LThumb2",
+          "id": 23,
+          "parent_id": 22,
+          "offset": [
+            0.026331700384616852,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LThumb3",
+          "id": 24,
+          "parent_id": 23,
+          "offset": [
+            0.022505899891257286,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LIndex1",
+          "id": 25,
+          "parent_id": 9,
+          "offset": [
+            0.07132159918546677,
+            0.0,
+            0.027736200019717216
+          ]
+        },
+        {
+          "name": "Skeleton_LIndex2",
+          "id": 26,
+          "parent_id": 25,
+          "offset": [
+            0.03962310031056404,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LIndex3",
+          "id": 27,
+          "parent_id": 26,
+          "offset": [
+            0.01981149986386299,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LMiddle1",
+          "id": 28,
+          "parent_id": 9,
+          "offset": [
+            0.07132159918546677,
+            0.0,
+            0.009192559868097305
+          ]
+        },
+        {
+          "name": "Skeleton_LMiddle2",
+          "id": 29,
+          "parent_id": 28,
+          "offset": [
+            0.0435854010283947,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LMiddle3",
+          "id": 30,
+          "parent_id": 29,
+          "offset": [
+            0.02377389930188656,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LRing1",
+          "id": 31,
+          "parent_id": 9,
+          "offset": [
+            0.06735920161008835,
+            0.0,
+            -0.009192559868097305
+          ]
+        },
+        {
+          "name": "Skeleton_LRing2",
+          "id": 32,
+          "parent_id": 31,
+          "offset": [
+            0.03962310031056404,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LRing3",
+          "id": 33,
+          "parent_id": 32,
+          "offset": [
+            0.01981149986386299,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LPinky1",
+          "id": 34,
+          "parent_id": 9,
+          "offset": [
+            0.06339690089225769,
+            0.0,
+            -0.027736200019717216
+          ]
+        },
+        {
+          "name": "Skeleton_LPinky2",
+          "id": 35,
+          "parent_id": 34,
+          "offset": [
+            0.031698498874902725,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LPinky3",
+          "id": 36,
+          "parent_id": 35,
+          "offset": [
+            0.015849199146032333,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RShoulder",
+          "id": 10,
+          "parent_id": 3,
+          "offset": [
+            -0.03335849940776825,
+            0.13901500403881073,
+            -0.00580764003098011
+          ]
+        },
+        {
+          "name": "Skeleton_RUArm",
+          "id": 11,
+          "parent_id": 10,
+          "offset": [
+            -0.12784600257873535,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RFArm",
+          "id": 12,
+          "parent_id": 11,
+          "offset": [
+            -0.21476100385189056,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RHand",
+          "id": 13,
+          "parent_id": 12,
+          "offset": [
+            -0.22809499502182007,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RThumb1",
+          "id": 37,
+          "parent_id": 13,
+          "offset": [
+            -0.017434200271964073,
+            -0.01981149986386299,
+            0.027736200019717216
+          ]
+        },
+        {
+          "name": "Skeleton_RThumb2",
+          "id": 38,
+          "parent_id": 37,
+          "offset": [
+            -0.026331700384616852,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RThumb3",
+          "id": 39,
+          "parent_id": 38,
+          "offset": [
+            -0.022505899891257286,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RIndex1",
+          "id": 40,
+          "parent_id": 13,
+          "offset": [
+            -0.07132159918546677,
+            0.0,
+            0.027736200019717216
+          ]
+        },
+        {
+          "name": "Skeleton_RIndex2",
+          "id": 41,
+          "parent_id": 40,
+          "offset": [
+            -0.03962310031056404,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RIndex3",
+          "id": 42,
+          "parent_id": 41,
+          "offset": [
+            -0.01981149986386299,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RMiddle1",
+          "id": 43,
+          "parent_id": 13,
+          "offset": [
+            -0.07132159918546677,
+            0.0,
+            0.009192559868097305
+          ]
+        },
+        {
+          "name": "Skeleton_RMiddle2",
+          "id": 44,
+          "parent_id": 43,
+          "offset": [
+            -0.0435854010283947,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RMiddle3",
+          "id": 45,
+          "parent_id": 44,
+          "offset": [
+            -0.02377389930188656,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RRing1",
+          "id": 46,
+          "parent_id": 13,
+          "offset": [
+            -0.06735920161008835,
+            0.0,
+            -0.009192559868097305
+          ]
+        },
+        {
+          "name": "Skeleton_RRing2",
+          "id": 47,
+          "parent_id": 46,
+          "offset": [
+            -0.03962310031056404,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RRing3",
+          "id": 48,
+          "parent_id": 47,
+          "offset": [
+            -0.01981149986386299,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RPinky1",
+          "id": 49,
+          "parent_id": 13,
+          "offset": [
+            -0.06339690089225769,
+            0.0,
+            -0.027736200019717216
+          ]
+        },
+        {
+          "name": "Skeleton_RPinky2",
+          "id": 50,
+          "parent_id": 49,
+          "offset": [
+            -0.031698498874902725,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RPinky3",
+          "id": 51,
+          "parent_id": 50,
+          "offset": [
+            -0.015849199146032333,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LThigh",
+          "id": 14,
+          "parent_id": 1,
+          "offset": [
+            0.08341699838638306,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LShin",
+          "id": 15,
+          "parent_id": 14,
+          "offset": [
+            -0.0,
+            -0.34744301438331604,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LFoot",
+          "id": 16,
+          "parent_id": 15,
+          "offset": [
+            -0.0,
+            -0.35509398579597473,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_LToe",
+          "id": 17,
+          "parent_id": 16,
+          "offset": [
+            -0.0,
+            -0.054221101105213165,
+            0.12512600421905518
+          ]
+        },
+        {
+          "name": "Skeleton_RThigh",
+          "id": 18,
+          "parent_id": 1,
+          "offset": [
+            -0.08341699838638306,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RShin",
+          "id": 19,
+          "parent_id": 18,
+          "offset": [
+            -0.0,
+            -0.34744301438331604,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RFoot",
+          "id": 20,
+          "parent_id": 19,
+          "offset": [
+            -0.0,
+            -0.35509398579597473,
+            0.0
+          ]
+        },
+        {
+          "name": "Skeleton_RToe",
+          "id": 21,
+          "parent_id": 20,
+          "offset": [
+            -0.0,
+            -0.054221101105213165,
+            0.12512600421905518
+          ]
+        }
+      ]
+    }
+  ],
+  "recording": null,
+  "error": "Duplicate/out-of-order frame or source clock reset; start a new session.",
+  "selected_skeleton": "Skeleton 002",
+  "server_version": [
+    3,
+    0,
+    3,
+    1
+  ],
+  "natnet_version": [
+    4,
+    0,
+    0,
+    0
+  ],
+  "stopped": true
+}
